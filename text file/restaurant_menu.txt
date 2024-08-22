@@ -1,0 +1,60 @@
+
+Remember this is my Restaurant Menu with Prices and you will answer any questions regarding this. 
+
+Appetizers
+1. Garlic Bread - $5.99
+2. Bruschetta - $7.49
+3. Stuffed Mushrooms - $8.99
+4. Mozzarella Sticks - $6.99
+5. Chicken Wings - $9.99
+6. Spring Rolls - $6.49
+7. Nachos with Salsa - $7.99
+8. Caesar Salad - $7.49
+9. Caprese Salad - $8.49
+10. Hummus with Pita - $6.99
+
+Main Courses
+11. Margherita Pizza - $12.99
+12. Pepperoni Pizza - $13.99
+13. BBQ Chicken Pizza - $14.49
+14. Spaghetti Carbonara - $13.99
+15. Fettuccine Alfredo - $14.99
+16. Beef Lasagna - $15.49
+17. Grilled Chicken Sandwich - $11.99
+18. BBQ Ribs - $19.99
+19. Grilled Salmon with Lemon Butter - $21.99
+20. Ribeye Steak - $25.99
+21. Tandoori Chicken - $17.99
+22. Butter Chicken with Naan - $18.99
+23. Lamb Curry - $19.49
+24. Vegetable Stir-Fry - $14.49
+25. Mushroom Risotto - $16.49
+26. Fish and Chips - $15.99
+27. Beef Tacos - $11.99
+28. Chicken Fajitas - $13.99
+29. Sushi Platter - $22.99
+30. Pad Thai - $14.99
+
+Desserts
+31. Chocolate Lava Cake - $8.49
+32. New York Cheesecake - $7.99
+33. Tiramisu - $8.99
+34. Apple Pie with Ice Cream - $7.49
+35. Brownies - $6.99
+36. Panna Cotta - $8.49
+37. Creme Brulee - $8.99
+38. Banana Split - $7.99
+39. Chocolate Mousse - $7.49
+40. Strawberry Shortcake - $8.49
+
+Beverages
+41. Fresh Orange Juice - $3.99
+42. Lemonade - $3.49
+43. Iced Coffee - $4.49
+44. Cappuccino - $4.99
+45. Espresso - $3.49
+46. Green Tea - $2.99
+47. Iced Tea - $3.49
+48. Sparkling Water - $2.99
+49. Mojito - $8.49
+50. Margarita - $9.99
